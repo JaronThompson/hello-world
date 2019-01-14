@@ -1,2 +1,4 @@
 # hello-world
 Following Github Guides Tutorial 
+
+My name is Jaron Thompson and I am a graduate student intern at Los Alamos National Laboratories pursuing a masters degree at Colorado State University. I am interested in applying machine learning techniques to find patterns in microbiome data.  
